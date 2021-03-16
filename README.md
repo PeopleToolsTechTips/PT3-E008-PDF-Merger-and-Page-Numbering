@@ -7,6 +7,7 @@ Randy Groncki	2021-03-16
 PT3 E008 PDF Merger and Page Numbering
 
 Walkthrough Documentation: https://peopletoolstechtips.com/merging-bi-publisher-pdf-documents-with-peoplecode/
+
 YouTube demo: https://youtu.be/Lt3bvjOH9UA
 
 Contact: 
@@ -14,6 +15,7 @@ Contact:
    PeopleToolsTechTips@Gmail.com
 
 Walkthrough Documentation: https://peopletoolstechtips.com/merging-bi-publisher-pdf-documents-with-peoplecode/ 
+
 YouTube demo: https://youtu.be/Lt3bvjOH9UA
 
 
