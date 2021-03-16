@@ -13,7 +13,7 @@ Contact:
    randy@peopletoolstechtips.com
    PeopleToolsTechTips@Gmail.com
 
-Walkthrough Documentation: https://peopletoolstechtips.com/merging-bi-publisher-pdf-documents-with-peoplecode/
+Walkthrough Documentation: https://peopletoolstechtips.com/merging-bi-publisher-pdf-documents-with-peoplecode/ 
 YouTube demo: https://youtu.be/Lt3bvjOH9UA
 
 
